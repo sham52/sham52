@@ -1,4 +1,6 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1sdTZjYzFnMHNhZW5xMHNic3VqYWQ5bWc2eGV2dWZuMHhzZjV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif)
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG1sdTZjYzFnMHNhZW5xMHNic3VqYWQ5bWc2eGV2dWZuMHhzZjV3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" alt="GIF" />
+</div>
 <h1 align="center">Hi 👋, I'm Shamil</h1>
 <h3 align="center">A passionate Full-Stack Developer from Turkiye</h3>
 
