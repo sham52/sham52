@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/şamil-altunışık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şamil-altunışık" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shamilalt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şamil-altunışık" height="30" width="40" /></a>
 <a href="https://instagram.com/sham_the_mil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sham_the_mil" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/samilaltunsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samilaltunsk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCOI8aM3S3rOkDdWoq13oyyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samilaltunsk" height="30" width="40" /></a>
 <a href="https://discord.gg/MQmDAKY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MQmDAKY" height="30" width="40" /></a>
 </p>
 
